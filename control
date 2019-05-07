@@ -1,0 +1,9 @@
+Package: com.brianvalente.thanosdance
+Name: ThanosDance
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Do you love Thanos and Spider-Man? I do!
+Maintainer: Brian Valente
+Author: Brian Valente
+Section: Tweaks
